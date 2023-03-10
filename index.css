@@ -95,7 +95,7 @@ img{
 .card__button{
     display: block;
     width: max-content;
-    padding: 1.125rem 2rem;
+    padding: 0.5rem 1rem;
     background-color: var(--first-color);
     color: var(--white-color);
     border-radius: .5rem;
